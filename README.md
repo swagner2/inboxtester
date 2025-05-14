@@ -77,7 +77,7 @@ The application consists of two main components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/email-deliverability-app.git
+git clone https://github.com/swagner2/inboxtests
 cd email-deliverability-app/backend
 ```
 
